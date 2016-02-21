@@ -1,0 +1,12 @@
+body {
+  font-family: Verdana, Helvetica, sans-serif;
+  background: url(1s2iwbh4dIQ.jpg);
+}
+
+.Hi{
+ background-color: rgba(50, 199, 55, 0.5);
+ border-radius: 5%;
+ margin: auto;
+ padding: 10px;
+ text-align: center;
+}
